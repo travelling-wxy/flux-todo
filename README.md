@@ -1,6 +1,6 @@
 ## Flux-Todo
 
-> 一个 Flux 架构的 mvc 应用, 学习自 [Flux 官网](https://github.com/facebook/flux).
+> 一个 Flux 架构的 mvc 应用, 学习来源 [Flux 官网](https://github.com/facebook/flux).
 
 ### ScreenShot
 ![app's screenshot](./screenshot.png)
